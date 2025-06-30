@@ -1,0 +1,6 @@
+Test Name,Input,Expected Output,Actual Output,Status,Timestamp
+"testBoilingPoint","100","Temperature in Fahrenheit: 212.00","Enter Temperature in Celsius: Temperature in Fahrenheit: 212.00","PASS","2025-06-30 14:41:23"
+"testFreezingPoint","0","Temperature in Fahrenheit: 32.00","Enter Temperature in Celsius: Temperature in Fahrenheit: 32.00","PASS","2025-06-30 14:41:23"
+"testSampleTemp","27","Temperature in Fahrenheit: 80.60","Enter Temperature in Celsius: Temperature in Fahrenheit: 80.60","PASS","2025-06-30 14:41:23"
+"testDecimalInput","37","Temperature in Fahrenheit: 98.60","Enter Temperature in Celsius: Temperature in Fahrenheit: 98.60","PASS","2025-06-30 14:41:23"
+"testNegativeTemp","-40","Temperature in Fahrenheit: -40.00","Enter Temperature in Celsius: Temperature in Fahrenheit: -40.00","PASS","2025-06-30 14:41:23"
