@@ -19,7 +19,7 @@ public class Main {
     }
 
     private static double cToFahrenheit(float celsius){
-        return celsius * 1.8 + 32;
+        return celsius * 1.8 + 32;//celsius to fahrenheit
     }
 
 }
